@@ -49,7 +49,7 @@ assign F = (~A & B) | (C & D) | (A & ~D);
 
 endmodule
 ```
-Developed by:D.R.Guru Prasad RegisterNumber:25015296
+Developed by:D.R.Guru Prasad RegisterNumber:*/25015296
 
 
 **RTL realization**
